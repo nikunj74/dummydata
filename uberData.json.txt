@@ -1,0 +1,23 @@
+[
+  {
+    "Source": "New York",
+    "Destination": "Los Angeles",
+    "Time": "08:15",
+    "Price": 80,
+    "CarType": "sedan"
+  },
+  {
+    "Source": "Chicago",
+    "Destination": "Miami",
+    "Time": "10:00",
+    "Price": 100,
+    "CarType": "SUV"
+  },
+  {
+    "Source": "San Francisco",
+    "Destination": "Seattle",
+    "Time": "12:45",
+    "Price": 90,
+    "CarType": "sedan"
+  }
+]
