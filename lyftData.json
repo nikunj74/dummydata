@@ -20,6 +20,27 @@
       "Time": "12:45",
       "Price": 95,
       "CarType": "sedan"
+    },
+    {
+      "Source": "Mesa",
+      "Destination": "Tempe",
+      "Time": "12:45",
+      "Price": 60,
+      "CarType": "SUV"
+    },
+    {
+      "Source": "Tempe",
+      "Destination": "Mesa",
+      "Time": "12:45",
+      "Price": 80,
+      "CarType": "sedan"
+    },
+    {
+      "Source": "Mesa",
+      "Destination": "Tempe",
+      "Time": "12:45",
+      "Price": 95,
+      "CarType": "sedan"
     }
   ]
 }
