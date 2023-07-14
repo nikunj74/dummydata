@@ -3,8 +3,8 @@
     {
       "Source": "Ontario airport",
       "Destination": "Csusb",
-      "Time": "08:12",
-      "Price": 33.90,
+      "Time": "08:10",
+      "Price": 33.85,
       "CarType": "sedan"
     },
     {
@@ -36,17 +36,17 @@
       "CarType": "sedan"
     },
     {
+      "Source": "Csusb",
+      "Destination": "UPS",
+      "Time": "12:48",
+      "Price": 17.65,
+      "CarType": "SUV"
+    },
+    {
       "Source": "UPS",
       "Destination": "walmart",
       "Time": "11:40",
       "Price": 11.45,
-      "CarType": "sedan"
-    },
-    {
-      "Source": "Mesa",
-      "Destination": "Tempe",
-      "Time": "12:45",
-      "Price": 21.60,
       "CarType": "sedan"
     }
   ]
