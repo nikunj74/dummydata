@@ -1,52 +1,52 @@
 {
   "todo": [
     {
-      "Source": "New York",
-      "Destination": "Los Angeles",
+      "Source": "Ontario airport",
+      "Destination": "Csusb",
       "Time": "08:15",
-      "Price": 100,
+      "Price": 32.45,
       "CarType": "sedan"
     },
     {
-      "Source": "Chicago",
-      "Destination": "Miami",
-      "Time": "10:00",
-      "Price": 80,
+      "Source": "Ontario airport",
+      "Destination": "Csusb",
+      "Time": "08:18",
+      "Price": 40.75,
       "CarType": "SUV"
     },
     {
-      "Source": "San Francisco",
-      "Destination": "Seattle",
-      "Time": "12:45",
-      "Price": 95,
+      "Source": "Csusb",
+      "Destination": "Ralphs",
+      "Time": "3:15",
+      "Price": 7.65,
       "CarType": "sedan"
     },
     {
-      "Source": "Mesa",
-      "Destination": "Tempe",
-      "Time": "12:45",
-      "Price": 60,
+      "Source": "UPS",
+      "Destination": "Walmart",
+      "Time": "11:45",
+      "Price": 16.85,
       "CarType": "SUV"
     },
     {
-      "Source": "Tempe",
-      "Destination": "Mesa",
-      "Time": "12:45",
-      "Price": 80,
+      "Source": "UPS",
+      "Destination": "Walmart",
+      "Time": "11:42",
+      "Price": 10.90,
       "CarType": "sedan"
     },
     {
-      "Source": "University",
+      "Source": "Csusb",
       "Destination": "UPS",
-      "Time": "12:45",
-      "Price": 70,
+      "Time": "12:47",
+      "Price": 11.55,
       "CarType": "sedan"
     },
     {
       "Source": "Mesa",
       "Destination": "Tempe",
       "Time": "12:45",
-      "Price": 95,
+      "Price": 23.45,
       "CarType": "sedan"
     }
   ]
